@@ -1,5 +1,5 @@
 # rBH1750FVI
-rBH1750FVI is an open source library for the Digital Ambient Light Sensor BH1750FVI.
+rBH1750FVI is an open source B4R library for the Digital Ambient Light Sensor BH1750FVI.
 
 This B4R library
 * is written in C++ (using the Arduino IDE 1.8.9 and the B4Rh2xml tool).
